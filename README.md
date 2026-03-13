@@ -7,7 +7,7 @@ Examples of data iclude: integer, string and Boolean
 The difference between structured data and unstructured data:
 
 Structured data is well-organized and has a predefined schema or structure, similar to the rows and columns of a spreadsheet or database. Structured data is also generally quantifiable. Structured data might contain names, dates, addresses, and financial data. Structured data is easily searchable using SQL-style queries. Relational databases and data warehouses are common storage solutions for structured data.
-Examples of structured data include: Financial transactions and bustomer and business information.
+Examples of structured data include: Financial transactions, customer data and business information.
 On the other hand, unstructured data does not have a predefined schema or structure and is generally qualitative. Unstructured data might include text documents, emails, social media content, images, videos, audio files, and sensor readings. Unstructured data is generally stored in its native format in data lakes or NoSQL databases and requires sophisticated analysis tools such as NLP or ML.
 Two exaples of unstructured data include:
 Text-based examples: Emails, Word documents, PDFs, social media posts, blog content, customer reviews, call transcripts, and meeting notes. 
