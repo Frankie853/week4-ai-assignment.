@@ -23,6 +23,7 @@ print("Age":20)
 print("City:Nairobi")
 ## Question 6
 Programming Languages = ["Java","Python" "C++", "JavaScript", "Go"]
+
 print(languages[0]
 ## Question 7
 Creating a dictionary
@@ -31,6 +32,7 @@ student = {
 "age": 21,
 "course": "AI"
 }
+
 print(student[0])
 ## Question 8
 Lists are collections of items that are arranged according to their numerical index and may contain a variety of data types. They support a variety of array operations, including slicing, and are implemented as dynamic arrays.Conversely, dictionaries are collections of key-value pairs. Effective data retrieval is made possible by each key acting as a distinct identifier for the value that corresponds to it. The associated values may be any type of data, but the keys must be unique and unchangeable.
