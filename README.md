@@ -2,7 +2,7 @@
 Name: Franklin Nthiwa Nzioki
 ## Question 1
 Data is the raw material of information that can be processed and analyzed to obtain useful insights. Data may be in various forms, including numerical data, text data, image data, and sound data.
-Examples of data iclude: integer, string, Boolean
+Examples of data iclude: integer, string and Boolean
 ## Question 2
 The difference between structured data and unstructured data:
 Structured data is well-organized and has a predefined schema or structure, similar to the rows and columns of a spreadsheet or database. Structured data is also generally quantifiable. Structured data might contain names, dates, addresses, financial data, and so on. Structured data is easily searchable using SQL-style queries. Relational databases and data warehouses are common storage solutions for structured data.
