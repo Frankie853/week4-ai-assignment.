@@ -1,8 +1,10 @@
-# week4-ai-assignment
-Name: Franklin Nthiwa Nzioki
+## week4-ai-assignment
+# Name: Franklin Nthiwa Nzioki
+
 ## Question 1
 Data is the raw material of information that can be processed and analyzed to obtain useful insights. Data may be in various forms, including numerical data, text data, image data, and sound data.
 Examples of data iclude: integer, string and Boolean
+
 ## Question 2
 The difference between structured data and unstructured data:
 
@@ -13,18 +15,23 @@ On the other hand, unstructured data does not have a predefined schema or struct
 Two exaples of unstructured data include:
 Text-based examples: Emails, Word documents, PDFs, social media posts, blog content, customer reviews, call transcripts, and meeting notes. 
 Multimedia content: Images (JPEG, PNG), videos (MP4, AVI), audio files (MP3, WAV), and digital photos.
+
 ## Question 3
 Schema is the framework or design that specifies how data is arranged and kept in a database.  It describes the database's tables, fields, data types, relationships, constraints, and other components. Physical Schema, for instance, explains how data is kept on disk (e.g., file structures, indexes).
+
 ## Question 4
 print("Hello Ai Students")
+
 ## Question 5
 print("Name:John")
 print("Age":20)
 print("City:Nairobi")
+
 ## Question 6
-Programming Languages = ["Java","Python" "C++", "JavaScript", "Go"]
+Languages = ["Java","Python" "C++", "JavaScript", "Go"]
 
 print(languages[0])
+
 ## Question 7
 Creating a dictionary
 student = {
